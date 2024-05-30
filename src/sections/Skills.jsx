@@ -1,7 +1,6 @@
 import React from 'react'
 import StackIcon from "tech-stack-icons";
-
-
+import { tech } from '../constants';
 
 const Skills = () => {
   return (
