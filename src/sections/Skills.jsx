@@ -16,9 +16,9 @@ const Skills = () => {
       <div className="flex mt-16 flex-wrap gap-6 justify-center items-center border-white">
        
       {tech.map((icon)=>(
-        <div className="bg-[#0a0a0a] backdrop-blur-xl rounded-[20px] p-[20px] max-sm:p-[15px] border-[1px] border-teal-800 flex justify-center items-center shadow-xl">
-          <Tooltip title={icon.tip} arrow ><img src={icon.name} className="w-[50px] max-sm:w-[30px]"/>  </Tooltip>
-        </div>
+         <Tooltip title={icon.tip} arrow enterTouchDelay="10"> <div className="bg-[#0a0a0a] backdrop-blur-xl rounded-[20px] p-[20px] max-sm:p-[15px] border-[1px] border-teal-800 flex justify-center items-center shadow-xl">
+         <img src={icon.name} className="w-[50px] max-sm:w-[30px]"/>  
+        </div> </Tooltip>
       ))}
       
 
