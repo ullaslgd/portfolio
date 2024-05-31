@@ -3,7 +3,7 @@ import { Nav, Hero, Skills, Projects, About, Certificate, Contanct } from './sec
 
 export default function App() {
   return (
-    <main className="relative">
+    <main className="relative overflow-x-hidden">
       <section className=" w-full bg-[#0a0a0a]">
         
           <Hero />
