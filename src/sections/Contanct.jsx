@@ -3,7 +3,7 @@ import { socials } from '../constants/index'
 
 const Contanct = () => {
   return (
-    <section className="flex justify-end p-8 border-teal-300 border-t-2 rounded-full">
+    <section className="flex justify-end p-4 pb-0 border-teal-300 border-t-2 rounded-full">
         <div className="flex gap-6 p-2">
             {socials.map((social)=>{
                 return(

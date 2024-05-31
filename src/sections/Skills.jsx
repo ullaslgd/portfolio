@@ -4,7 +4,7 @@ import { tech } from '../constants';
 
 const Skills = () => {
   return (
-    <section className="flex justify-start flex-col mx-20 h-fit pb-20 ">
+    <section className="flex justify-start flex-col mx-2 h-fit pb-[60px] ">
 
       <div>
         <h2 className="text-[#bbbbbb] text-3xl font-nunito flex justify-center">Skillset</h2>

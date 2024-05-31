@@ -10,7 +10,7 @@ const Projects = () => {
 
       </div>
 
-      <div className="grid grid-cols-3 max-sm:grid-cols-1 max-md:grid-cols-2 max-lg:grid-cols-2 p-10 mt-20 gap-10 " >
+      <div className="grid grid-cols-3 max-sm:grid-cols-1 max-md:grid-cols-2 max-lg:grid-cols-2 p-10 mt-10 gap-10 " >
 
         {projects.map((project) => (
           <ProjectCard
