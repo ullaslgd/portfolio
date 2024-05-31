@@ -2,8 +2,6 @@ import React from 'react'
 import StackIcon from "tech-stack-icons";
 import { tech } from '../constants';
 import Tooltip from '@mui/material/Tooltip';
-import ClickAwayListener from '@mui/material/ClickAwayListener';
-import { Button } from '@mui/material';
  
 
 const Skills = () => {
