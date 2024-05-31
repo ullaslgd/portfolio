@@ -20,9 +20,10 @@ import project2 from "../assets/images/project2.png";
 import project3 from "../assets/images/project3.png";
 import udemy from "../assets/images/udemy.png";
 import leetcode from "../assets/icons/leetcode.png";
-import twitter from "../assets/icons/twitter.svg";
+import twitter from "../assets/icons/twitter.png";
 import instagram from "../assets/icons/instagram.png";
-import github from "../assets/icons/github.svg";
+import github from "../assets/icons/github.png";
+import c from "../assets/icons/c.png";
 
 
 export const tech = [
@@ -88,6 +89,7 @@ export const projects = [
         description:
             "This project is a Nike Landing Page built using React and Tailwind CSS. It showcases the latest Nike products and provides a seamless user experience with responsive design.",
         link: "https://github.com/ullaslgd/Nike-landing-page.git",
+        live: "https://nike-landing-page-five-sepia.vercel.app/",
     },
     {
         img: project2,
@@ -95,7 +97,8 @@ export const projects = [
         title: "Personal Portfolio",
         description:
             "This project is a personal portfolio website built using React and Tailwind CSS. It showcases my skills and projects in a visually appealing and user-friendly manner.",
-        link: "https://github.com/ullaslgd",
+        link: "https://github.com/ullaslgd/portfolio.git",
+        live: "https://portfolio-sigma-eight-84.vercel.app/",
     },
     {
         img: project3,
