@@ -17,7 +17,7 @@ const Skills = () => {
        
       {tech.map((icon)=>(
         <div className="bg-[#0a0a0a] backdrop-blur-xl rounded-[20px] p-[20px] max-sm:p-[15px] border-[1px] border-teal-800 flex justify-center items-center shadow-xl">
-          <Tooltip disableFocusListener title={icon.tip} arrow ><img src={icon.name} className="w-[50px] max-sm:w-[30px]"/>  </Tooltip>
+          <Tooltip className="z-[999]" anchorSelect={`.${icon.tip}`} place="bottom" arrow ><img src={icon.name} className="w-[50px] max-sm:w-[30px]"/>  </Tooltip>
         </div>
       ))}
       
