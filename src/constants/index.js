@@ -122,7 +122,7 @@ export const certificates=[
         src:aicerti,
         name:"Career Essentials in Generative AI",
         from:"Microsoft",
-        source:"https://www.coursera.org/account/accomplishments/certificate/3H2Q7Y6YQ9Z2",
+        source:"https://www.linkedin.com/learning/certificates/31c9e67c33b5eaecf4d85dcbdd6f7376941dae7d1bdb0d3902db54048d976d54",
     },
 
 ];
