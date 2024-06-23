@@ -119,7 +119,7 @@ export const certificates=[
         source:"https://www.udemy.com/certificate/UC-3b54c456-699c-4bbe-b273-9b0fd91d8d9c/",
     },
     {
-        src:linkedin,
+        src:aicerti,
         name:"Career Essentials in Generative AI",
         from:"Microsoft",
         source:"https://www.coursera.org/account/accomplishments/certificate/3H2Q7Y6YQ9Z2",
