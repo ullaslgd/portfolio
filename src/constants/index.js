@@ -88,7 +88,7 @@ export const projects = [
         id: 1,
         title: "Nike Landing Page",
         description:
-            "This project is a Nike Landing Page built using React and Tailwind CSS. It showcases the latest Nike products and provides a seamless user experience with responsive design.",
+            "A Nike Landing Page built using React and Tailwind CSS.",
         link: "https://github.com/ullaslgd/Nike-landing-page.git",
         live: "https://nike-landing-page-five-sepia.vercel.app/",
     },
@@ -97,7 +97,7 @@ export const projects = [
         id: 2,
         title: "Personal Portfolio",
         description:
-            "This project is a personal portfolio website built using React and Tailwind CSS. It showcases my skills and projects in a visually appealing and user-friendly manner.",
+            "A personal portfolio website built using React and Tailwind CSS. ",
         link: "https://github.com/ullaslgd/portfolio.git",
         live: "https://portfolio-sigma-eight-84.vercel.app/",
     },
@@ -106,7 +106,7 @@ export const projects = [
         id: 3,
         title: "100 Python Projects",
         description:
-            "This project is a collection of 100 Python projects created as part of the London Brewery Bootcamp on Udemy. It covers a wide range of topics and helps in learning Python.",
+            "100 Python projects created as part of the London Brewery Bootcamp on Udemy.",
         link: "https://github.com/ullaslgd/100-python-projects.git",
     },
 ];

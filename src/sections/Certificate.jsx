@@ -6,7 +6,7 @@ const Certificate = () => {
   return (
     <section className="flex justify-center h-fit py-[40px] flex-col pb-[200px] ]">
         <div className="flex justify-center py-[60px] ">
-            <h2 className="text-3xl font-montserrat text-[#bbbbbb]">Certificates</h2>
+            <h2 className="text-3xl font-play text-[#bbbbbb]">CERTIFICATES</h2>
             
         </div>
         <div className="grid grid-cols-2 max-sm:grid-cols-1">
