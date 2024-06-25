@@ -12,7 +12,7 @@ const About = () => {
 
       <div className="w-[80vh] max-sm:w-[50vh]">
         
-        <p className="text-[20px] max-sm:text-[16px] font-poppins text-[#71717a] px-[10px] text-balance ">
+        <p className="text-[20px] max-sm:text-[16px] font-poppins text-[#71717a] px-[10px] max-sm:text-[15px] ">
         I'm a skilled full stack web developer and vedio game developer with a passion for creating seamless, responsive web applications and graphical gaming environment. I bridge the gap between development and operations to deliver high-quality andscalable solutions.
         </p>
       </div>
