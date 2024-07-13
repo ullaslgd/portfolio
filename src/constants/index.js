@@ -18,6 +18,7 @@ import git from "../assets/icons/git.svg";
 import project1 from "../assets/images/project1.png";
 import project2 from "../assets/images/project2.png";
 import project3 from "../assets/images/project3.png";
+import project4 from "../assets/images/project4.png";
 import udemy from "../assets/images/udemy.png";
 import leetcode from "../assets/icons/leetcode.png";
 import twitter from "../assets/icons/twitter.png";
@@ -102,13 +103,23 @@ export const projects = [
         live: "https://portfolio-sigma-eight-84.vercel.app/",
     },
     {
-        img: project3,
+        img: project4,
         id: 3,
+        title: "Prompt Hub",
+        description:
+            "A platform to share and view prompts for writing, coding, and more.",
+        link: "https://github.com/ullaslgd/Prompthub.git"
+    },
+
+    {
+        img: project3,
+        id: 4,
         title: "100 Python Projects",
         description:
             "100 Python projects created as part of the London Brewery Bootcamp on Udemy.",
         link: "https://github.com/ullaslgd/100-python-projects.git",
     },
+
 ];
 
 export const certificates=[
