@@ -15,6 +15,12 @@ import vitejs from "../assets/icons/vitejs.svg";
 import vscode from "../assets/icons/vscode.svg";
 import python from "../assets/icons/python.svg";
 import git from "../assets/icons/git.svg";
+import express from "../assets/images/express.png";
+import mongodb from "../assets/images/mongoDB.png";
+import next from "../assets/images/next.png";
+import gsap from "../assets/images/gsap.png";
+import threejs from "../assets/images/threejs.png";
+import unreal from "../assets/images/unreal.png";
 import project1 from "../assets/images/project1.png";
 import project2 from "../assets/images/project2.png";
 import project3 from "../assets/images/project3.png";
@@ -46,6 +52,24 @@ export const tech = [
     },
     { name: React ,
         tip:"React",
+    },
+    { name: express ,
+        tip:"Express",
+    },
+    { name: mongodb ,
+        tip:"MongoDB",
+    },
+    { name: next ,
+        tip:"Next.js",
+    },
+    { name: gsap ,
+        tip:"GSAP",
+    },
+    { name: threejs ,
+        tip:"Three.js",
+    },
+    { name: unreal ,
+        tip:"Unreal Engine",
     },
     { name: material ,
         tip:"Material UI",

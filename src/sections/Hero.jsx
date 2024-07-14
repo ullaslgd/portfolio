@@ -14,6 +14,7 @@ const Hero = () => {
       
       </div>
       <div className="absolute">
+
         <img src={stars} />
       </div>
       <div className=" flex justify-center items-center h-[85vh] max-sm:h-[55vh] flex-col">
